@@ -1,6 +1,6 @@
 langcodes==2.0.0
 marisa-trie==0.7.5
-msgpack==1.2.1
+msgpack==1.2.3
 pkg-resources==0.0.0
 regex==2020.5.14
 silpa-common==0.3
